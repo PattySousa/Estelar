@@ -1,9 +1,9 @@
 # Estelar
-Conversor Inter Estelar 
+## Conversor Inter Estelar - desafio Alura
 
 Versionei inicialmente  no  editor Codepen  e  transferi agora para o  VSCode e GitHub.
 
-Linguagens utilizada  HTML, CSS e JS.
+=> Linguagens utilizadas  (HTML5, CSS3 e Javascript).
 
 Primeira aula da Imersão DEV com os gigantes Rafaella Ballerini, Guilherme Lima, Paulo Silveira da Alura
 
