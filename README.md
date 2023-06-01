@@ -14,3 +14,7 @@ Depois, encontrei a informação que (O ano Luz) é a distância atravessada pel
 Transformando quilômetros em metros, conforme foi pedido no desafio, deram 9,5 quatrilhões de metros.
 Então, multipliquei os 4 mil anos luz do desafio, pela distância em quatrilhões de metros (9,5); encontrando o resultado de 38.000,00 quatrilhões de metros.
 Alterei o conversor de moedas para conversor Inter Estelar, como foi pedido e a imagem de background.
+
+## Se preferir, postei o vídeo deste projeto em meu Linkedln.
+
+(https://www.linkedin.com/feed/update/urn:li:activity:7027016878099173376/?originTrackingId=ZHzj2ptSRtOl%2Fx0Qq3qqMg%3D%3D)
